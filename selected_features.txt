@@ -1,0 +1,11 @@
+battery_power
+fc
+int_memory
+mobile_wt
+px_height
+px_width
+ram
+sc_w
+talk_time
+pixel_density
+price_range
