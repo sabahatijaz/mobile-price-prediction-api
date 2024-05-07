@@ -6,7 +6,7 @@ This project is an API for predicting mobile phone prices based on their specifi
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/sabahatijaz/mobile-price-prediction-api
 
 2. Install dependencies:
 cd mobile-price-prediction-api
